@@ -2,12 +2,12 @@
 
 Summary:	OAuth Python implementation
 Name:		python-%{module}
-Version:	0.5.1
+Version:	0.6.0
 Release:	1
 License:	BSD-like
 Group:		Development/Languages/Python
 Source0:	https://pypi.python.org/packages/source/o/oauthlib/%{module}-%{version}.tar.gz
-# Source0-md5:	45ebbd43c9430bb404c9aa0979d949f2
+# Source0-md5:	b7c3e1832ec111e65baaab2de7834aae
 URL:		https://github.com/sigmavirus24/charade
 BuildRequires:	python-modules
 BuildRequires:	python-setuptools
